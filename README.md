@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Fábio Henrique
 
-<!--
-**fabiohenriq31/fabiohenriq31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Sistemas de Informação**  
+🚀 Focado em me tornar **Full-Stack Developer**  
+🌐 Apaixonado por **Web Development, Node.js & TypeScript**  
+📍 Ouro Branco – MG, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+
+**Back-end**
+- Node.js | Express | TypeScript | JavaScript  
+- REST APIs | Autenticação JWT | SQL & NoSQL  
+
+**Front-end**
+- HTML | CSS | JavaScript  
+- React (em aprendizado) | TailwindCSS  
+
+**Outros**
+- Git & GitHub  
+- Docker (básico)  
+- Linux & Windows  
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 [**API REST com Node.js**](https://github.com/fabiohenriq31/API-REST-com-Node.js)  
+API desenvolvida em Node.js e TypeScript com CRUD completo.
+
+🔹 [**Expert Notes**](https://github.com/fabiohenriq31/expert-Notes)  
+Aplicação para anotações com suporte a reconhecimento de voz.  
+
+🔹 [**Espaço Aprender (Back-End)**](https://github.com/fabiohenriq31/espaco-aprender-back-end)  
+Projeto para estudos de back-end com Node.js.  
+
+🔹 [**Espaço Aprender (Front-End)**](https://github.com/fabiohenriq31/espaco-aprender-front-end)  
+Projeto para estudos de front-end com JavaScript.  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiohenriq31&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiohenriq31&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabiohqs)  
+- ✉️ Email: fabio_henriq@icloud.com
