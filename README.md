@@ -25,6 +25,8 @@
 ---
 
 ## 📌 Projetos em Destaque
+🔹 [**Coflu**](https://github.com/fabiohenriq31/Coflu)  
+Aplicativo de finanças pessoais e familiares, feito para casais e grupos que querem controlar gastos e metas de forma colaborativa, leve e inteligente.
 
 🔹 [**API REST com Node.js**](https://github.com/fabiohenriq31/API-REST-com-Node.js)  
 API desenvolvida em Node.js e TypeScript com CRUD completo.
